@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nepheya/","title":"NEPHEYA","tags":["gardenEntry"],"dg-note-properties":{"title":"NEPHEYA"}}
+{"dg-publish":true,"permalink":"/nepheya/","tags":["gardenEntry"],"dg-note-properties":{"sitename":"NEPHEYA"}}
 ---
 
 
