@@ -1,4 +1,17 @@
 body {
+    
+.cm-s-obsidian .inline-title,
+h1 {
+  text-align: center !important;
+}
+    
+.header-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}    
+    
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
