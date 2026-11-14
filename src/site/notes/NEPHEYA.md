@@ -10,6 +10,8 @@
 ***
 ***
 
+# <font color="#c0504d"><u>ORIGINE</u></font>
+
 L'origine de Nepheya prends place quand une entité apparaît, puis deux autres à ses côtés:
 
 - [[Elstrom\|Elstrom]] - Le Maître de l'Eau. Celui qui a créer les océans et mis du bleu sur la planète, un pirate avec la maîtrise de l'eau, plus impressionnante que le pouvoir d'eau actuel d'aujourd'hui. Sa vie ne fut que des plus mouvementé avant de s'éteindre.
@@ -25,6 +27,9 @@ Mais c'est encore confus, c'est comme ça qu'est enseigné l'origine du monde sc
 --- 
 --- 
 
+
+# <font color="#c0504d"><u>GUERRES</u></font>
+
 Durant l'histoire de Pancris, plusieurs guerres ont eu lieu avec l'évolution des peuples et de l'histoire. Trois grandes guerres sont notables cependant étant les plus grosses que Nepheya ait connu, notamment pour la conception de certaine chose.
 
 ### [[BELLIS\|BELLIS]]
@@ -38,6 +43,9 @@ Bien après la deuxième guerre, et donc la plus récente, s'est faite à cause 
 
 --- 
 ---
+
+
+# <font color="#c0504d"><u>LES POUVOIRS</u></font>
 
 Le niveau social de Nepheya dépend encore aujourd'hui d'une bonne partie si la personne est née avec un pouvoir ou non. Avant c'était à cause de la méconnaissance, et on les pensait divin, mais aujourd'hui même en sachant comment ils fonctionnent grâce au [[Zecht\|Zecht]], ils gardent une position "supérieur" ayant des capacités hors normes.
 
