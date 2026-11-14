@@ -2,7 +2,11 @@
 {"dg-publish":true,"permalink":"/map/","dg-note-properties":{}}
 ---
 
-Dans le monde de Nepheya, il existe plusieurs zones. Des zones toute particulière, au nombre de 6:
+<center>Le monde de Nepheya se compose de plusieurs [[Îles/Index d'Îles\|îles]] se mettant tout autour de [[Pancris\|Pancris]] puis, de Pancris lui même évidemment la plus grosse partie.</center>
+
+![Nepheya 2023-11-12-17-43.png](/img/user/Images/Nepheya%202023-11-12-17-43.png)
+
+Pancris se compose :
 
 - [[Siever/Sievertomic\|Sievertomic]]: C'est une grand pays caché derrière une forêt, seulement quelques personnes rejoignent ou quittent la cité à cause de sa protection et la volonté de rester discrète. En effet Sievertomic est le pays le plus avancé en technologie, très avancé en fait à cause de la dirigeante qui booste toutes cette production. Capital : Etherium.
 - [[Dendi/Dendimak\|Dendimak]]: C'est une région forestière qui semblent infinis quand on y rentrent. C'est très facile de se perdre par la haute densité d'arbres et de beaucoup de chemins. Cela demande de la préparation pour s'y aventurer. Cette forêt cache Sievertomic. Capital: Fluro.
