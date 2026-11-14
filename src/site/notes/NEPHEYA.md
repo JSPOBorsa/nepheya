@@ -7,6 +7,7 @@
 
 <center>Le monde de Nepheya est un monde de fantasy des plus ordinaires. Certains êtres humains obtiennent des pouvoirs, un seul et unique et sont généralement appelé des Maîtres/Maîtresses suivis de leur talents. Par exemple "Maître du feu". C'est le principe même du fonctionnement de tout Nepheya: les pouvoirs et leur gestion Mais il y a évidemment bien plus, alors... bonne lecture !</center>
 
+<center><font color="#bfbfbf">***MAP***</font></center>
 ***
 ***
 
