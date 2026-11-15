@@ -11,6 +11,10 @@ h1 {
   align-items: center;
   text-align: center;
 }    
+
+li + li {
+    margin-top: 0.7em;
+}    
     
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
