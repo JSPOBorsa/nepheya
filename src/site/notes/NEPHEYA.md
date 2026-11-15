@@ -5,7 +5,7 @@
 # <center><font color="#b7dde8"><u>BIENVENUE A NEPHEYA !</u></font></center>
 
 
-<center>Le monde de Nepheya est un monde de fantasy des plus ordinaires. Certains êtres humains obtiennent des pouvoirs, un seul et unique et sont généralement appelé des Maîtres/Maîtresses suivis de leur talents. Par exemple "Maître du feu". C'est le principe même du fonctionnement de tout Nepheya: les pouvoirs et leur gestion Mais il y a évidemment bien plus, alors... bonne lecture !</center>
+<center>Le monde de Nepheya est un monde de fantasy des plus ordinaires, médieval un peu avancé dirait-on. Certains êtres humains obtiennent des pouvoirs, un seul et unique et sont généralement appelé des Maîtres/Maîtresses suivis de leur talents. Par exemple "Maître du feu". C'est le principe même du fonctionnement de tout Nepheya: les pouvoirs et leur gestion Mais il y a évidemment bien plus, alors... bonne lecture !</center>
 
 <center><font color="#bfbfbf"><i><b>
 
@@ -55,8 +55,8 @@ Bien après la deuxième guerre, et donc la plus récente, s'est faite à cause 
 
 Le niveau social de Nepheya dépend encore aujourd'hui d'une bonne partie si la personne est née avec un pouvoir ou non. Avant c'était à cause de la méconnaissance, et on les pensait divin, mais aujourd'hui même en sachant comment ils fonctionnent grâce au [[Zecht\|Zecht]], ils gardent une position "supérieur" ayant des capacités hors normes.
 
-Beaucoup d'alternatives ont été trouvés cependant depuis la création de Nepheya, pour palier au manque de pouvoir pouvant facilement amener à l'équivalent d'un combattant utilisateur de pouvoir, avec de l'entraînement en revanche... (Voir [[Puissances du Monde\|Puissances du Monde]].)
+Beaucoup d'alternatives ont été trouvés cependant depuis la création de Nepheya, pour palier au manque de pouvoir pouvant facilement amener à l'équivalent d'un combattant utilisateur de pouvoir. (Voir [[Puissances du Monde\|Puissances du Monde]].)
 
 Avec toutes ces émergences de capacités, de styles, d'apprentissage et tout ce qui s'en rapproche, depuis plusieurs générations une instance fut créer pour ne pas revivre un Bellis ou même un Abruptio: La [[Soria Divisée\|Soria Divisée]].
 
-Juste au dessus d'eux, voir à même puissance pour certains, des gens ont réussit à transcender leur vie, atteignant le monde de Soria, devenant des sortes de dieu. Même si depuis des décennies, plus personnes n'est passé au stade de dieu, ceux encore vivants sont là depuis des millénaires. Les dieux observent en silence, et la Soria Divisée légifère l'entièreté du monde et des crises urgente, tous avec une vision différente des situations. Evidemment chaque pays a ensuite leur propre lois, et leur propre système juridique et "policière".
+Juste au dessus d'eux, voir à même puissance pour certains, des gens ont réussit à transcender leur vie, atteignant le monde de Soria, devenant des sortes de dieu. Même si depuis des décennies, plus personnes n'est passé au stade de dieu, ceux encore vivants sont là depuis des millénaires. Les dieux observent en silence sans poser un pieds sur le monde tandis que la Soria Divisée légifère l'entièreté du monde et des crises urgente, chacun avec une vision différente des situations. Evidemment chaque pays a ensuite leur propre lois, et leur propre système juridique et "policière", en plus des [[races\|races]] et [[monstres\|monstres]] habitants ce monde.
