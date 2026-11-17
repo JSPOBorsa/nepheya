@@ -5,7 +5,7 @@
 # <center><font color="#b7dde8"><u>BIENVENUE A NEPHEYA !</u></font></center>
 
 
-<center>Le monde de Nepheya est un monde de fantasy des plus ordinaires, médieval un peu avancé dirait-on. Certains êtres humains obtiennent des pouvoirs, un seul et unique et sont généralement appelé des Maîtres/Maîtresses suivis de leur talents. Par exemple "Maître du feu". C'est le principe même du fonctionnement de tout Nepheya: les pouvoirs et leur gestion Mais il y a évidemment bien plus, alors... bonne lecture !</center>
+<center>Le monde de Nepheya est un monde de fantasy des plus ordinaires, médieval un peu avancé dirait-on. Certains êtres humains obtiennent des pouvoirs, un seul et unique et sont généralement appelé des Maîtres/Maîtresses suivis de leur talents. Ils représentent une petite partis de la population. Par exemple "Maître du feu". C'est le principe même du fonctionnement de tout Nepheya: les pouvoirs et leur gestion Mais il y a évidemment bien plus, alors... bonne lecture !</center>
 
 <center><font color="#bfbfbf"><i><b>
 
@@ -53,7 +53,7 @@ Bien après la deuxième guerre, et donc la plus récente, s'est faite à cause 
 
 # <font color="#c0504d"><u>LES POUVOIRS</u></font>
 
-Le niveau social de Nepheya dépend encore aujourd'hui d'une bonne partie si la personne est née avec un pouvoir ou non. Avant c'était à cause de la méconnaissance, et on les pensait divin, mais aujourd'hui même en sachant comment ils fonctionnent grâce au [[Zecht\|Zecht]], ils gardent une position "supérieur" ayant des capacités hors normes.
+Le niveau social de Nepheya dépend encore aujourd'hui d'une bonne partie si la personne est née avec un pouvoir ou non. Avant c'était à cause de la méconnaissance, et on les pensait divin, mais aujourd'hui même en sachant comment ils fonctionnent grâce à l'étude du [[Zecht\|Zecht]], ils gardent une position "supérieur" ayant des capacités hors normes.
 
 Beaucoup d'alternatives ont été trouvés cependant depuis la création de Nepheya, pour palier au manque de pouvoir pouvant facilement amener à l'équivalent d'un combattant utilisateur de pouvoir. (Voir [[Puissances du Monde\|Puissances du Monde]].)
 
